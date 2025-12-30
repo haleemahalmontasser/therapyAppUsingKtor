@@ -1,1 +1,1 @@
-A therapy App Backend-side using Kotlin( ktor framework)
+A therapy App Backend-side using Kotlin
